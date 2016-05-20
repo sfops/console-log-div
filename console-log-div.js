@@ -33,7 +33,7 @@
     style.marginLeft = '10px';
     style.marginRight = '10px';
     style.whiteSpace = 'pre';
-    style.border = '1px solid black';
+    //style.border = '1px solid black';
     style.borderRadius = '5px';
     style.padding = '5px 10px';
     return outer;
