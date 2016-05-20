@@ -43,10 +43,10 @@
 
     var outer = createOuterElement();
 
-    var caption = document.createTextNode('console output');
-    var legend = document.createElement('legend');
-    legend.appendChild(caption);
-    outer.appendChild(legend);
+    //var caption = document.createTextNode('console output');
+    //var legend = document.createElement('legend');
+    //legend.appendChild(caption);
+    //outer.appendChild(legend);
 
     var div = document.createElement('div');
     div.id = 'console-log-text';
